@@ -167,4 +167,4 @@ If you want to contribute to this project:
 
 ## License
 
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE.txt) file for details.
